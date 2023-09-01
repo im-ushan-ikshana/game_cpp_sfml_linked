@@ -8,7 +8,7 @@ Before running the code, make sure you have SFML correctly set up in your develo
 
 ## 💻 Code Description
 
-The code was designed by **Ushan Ikshana, MIT(UG), University of Kelaniya**.
+This code provides an engaging example of utilizing SFML for graphical applications. It demonstrates how to create a visually stimulating rainbow transition effect using a combination of time-based color calculations, HSV to RGB conversion, and simple rendering techniques. The result is an interactive and aesthetically pleasing animation that smoothly transitions through a spectrum of colors, offering an enjoyable visual experience to users.
 
 ### 🌈 HSV to RGB Conversion
 
