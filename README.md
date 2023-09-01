@@ -1,4 +1,4 @@
-# 🌈 Rainbow Transition with SFML 🎮
+# 🌈 Rainbow Transition with SFML(SFML LINKED) 🎮
 
 This C++ code, using the Simple and Fast Multimedia Library (SFML), creates a mesmerizing 🌈 rainbow transition effect on a rectangle 🟩 that covers the entire window. The rectangle smoothly changes colors over time, creating a rainbow-like animation.
 
