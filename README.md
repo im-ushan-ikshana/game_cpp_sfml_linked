@@ -42,8 +42,6 @@ Feel free to adjust the code parameters, such as the window size or color transi
 
 ---
 
-**Code designed by Ushan Ikshana, MIT(UG), University of Kelaniya.**
-
 📅 Date and Time: '2023/09/01-10:50pm'
 
 **Note:** If you encounter any issues with missing DLLs or errors, ensure that you have the necessary SFML DLLs in the same directory as your executable or in a directory included in the system's PATH environment variable.
